@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-family: monospace;
+}
+
+#board{
+  margin: 0 auto;
+}
+
+td{
+  background: #eeeeee;
+  padding: 50px;
+  font-size: 500%;
+}
